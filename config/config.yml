@@ -1,0 +1,55 @@
+default_browser: firefox
+default_email_address: test_mas12345@mailinator.com
+default_password: testing123
+
+live:
+  home_page: https://www.moneyadviceservice.org.uk
+  budget_planner_page: en/tools/budget-planner
+  budget_planner_tool_page: en/tools/budget-planner/budget/edit/income
+  budget_planner_household_bills_page: en/tools/budget-planner/budget/edit/household-bills
+  budget_planner_result_page: en/tools/budget-planner/budget/summary
+  budget_planner_living_cost_page: en/tools/budget-planner/budget/edit/living-costs
+  budget_planner_insurance_page: en/tools/budget-planner/budget/edit/insurance-loans-banking
+  budget_planner_family_page: en/tools/budget-planner/budget/edit/family-friends
+  budget_planner_travel_page: en/tools/budget-planner/budget/edit/travel
+  budget_planner_leisure_page: en/tools/budget-planner/budget/edit/leisure
+  money_health_check_page: en/tools/health-check
+
+qa:
+  home_page: https://qa.test.moneyadviceservice.org.uk
+  budget_planner_page: en/tools/budget-planner
+  budget_planner_tool_page: en/tools/budget-planner/budget/edit/income
+  budget_planner_household_bills_page: en/tools/budget-planner/budget/edit/household-bills
+  budget_planner_result_page: en/tools/budget-planner/budget/summary
+  budget_planner_living_cost_page: en/tools/budget-planner/budget/edit/living-costs
+  budget_planner_insurance_page: en/tools/budget-planner/budget/edit/insurance-loans-banking
+  budget_planner_family_page: en/tools/budget-planner/budget/edit/family-friends
+  budget_planner_travel_page: en/tools/budget-planner/budget/edit/travel
+  budget_planner_leisure_page: en/tools/budget-planner/budget/edit/leisure
+  money_health_check_page: en/tools/health-check
+
+preview:
+  home_page: https://preview.test.moneyadviceservice.org.uk
+  budget_planner_page: en/tools/budget-planner
+  budget_planner_tool_page: en/tools/budget-planner/budget/edit/income
+  budget_planer_household_bills_page: en/tools/budget-planner/budget/edit/household-bills
+  budget_planner_result_page: en/tools/budget-planner/budget/summary
+  budget_planner_living_cost_page: en/tools/budget-planner/budget/edit/living-costs
+  budget_planner_insurance_page: en/tools/budget-planner/budget/edit/insurance-loans-banking
+  budget_planner_family_page: en/tools/budget-planner/budget/edit/family-friends
+  budget_planner_travel_page: en/tools/budget-planner/budget/edit/travel
+  budget_planner_leisure_page: en/tools/budget-planner/budget/edit/leisure
+  money_health_check_page: en/tools/health-check
+
+staging:
+  home_page: https://wwwstaging.test.moneyadviceservice.org.uk
+  budget_planner_page: en/tools/budget-planner
+  budget_planner_tool_page: en/tools/budget-planner/budget/edit/income
+  budget_planner_household_bills_page: en/tools/budget-planner/budget/edit/household-bills
+  budget_planner_result_page: en/tools/budget-planner/budget/summary
+  budget_planner_living_cost_page: en/tools/budget-planner/budget/edit/living-costs
+  budget_planner_insurance_page: en/tools/budget-planner/budget/edit/insurance-loans-banking
+  budget_planner_family_page: en/tools/budget-planner/budget/edit/family-friends
+  budget_planner_travel_page: en/tools/budget-planner/budget/edit/travel
+  budget_planner_leisure_page: en/tools/budget-planner/budget/edit/leisure
+  money_health_check_page: en/tools/health-check

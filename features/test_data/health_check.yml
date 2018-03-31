@@ -1,0 +1,253 @@
+Q1:
+  question: How would you describe your attitude towards managing your money?
+  ans1: I know there are things I should do but keep putting them off
+  ans2: I feel overwhelmed and don't really know where to start
+  ans3: I keep on top of money matters but I'm happy to find out more
+
+Q2:
+  question: How old are you?
+  ans1: 21 or under
+  ans2: 22-30
+  ans3: 31-40
+  ans4: 41-50
+  ans5: 51-60
+  ans6: Over 60
+
+Q3:
+  question: Are you married or living with a partner?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q4:
+  question: 'What about work? Are you:'
+  ans1: Working
+  ans2: Unemployed
+  ans3: Other
+  ans4: Semi-retired
+  ans5: Retired
+
+Q5:
+  question: 'Is your partner:'
+  ans1: Working
+  ans2: Unemployed
+  ans3: Other
+  ans4: Semi-retired
+  ans5: Retired
+
+Q6:
+  question: What about your home?
+  ans1: We own our home outright
+  ans2: We have a mortgage
+  ans3: We don't own our home but we'd like to buy soon
+  ans4: We don't own our home and don't plan to buy soon
+
+Q7: 
+  question: What about your home?
+  ans1: I own my home outright.
+  ans2: I have a mortgage.
+  ans3: I don't own my home but would like to buy soon.
+  ans4: I don't own my home and don't plan to buy soon.
+
+Q8:
+  question: Does anyone other than your partner depend on you for money or anything else, such as children or a relative?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q9:
+  question: Does anyone depend on you for money or anything else, such as children or a relative?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q10:
+  question: Do you depend on anyone else financially or in another way, such as an ex-partner or a relative?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q11:
+  question: Do you or your partner depend on anyone else financially or in another way, such as an ex-partner or a relative?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q12:
+  question: How far does your money stretch?
+  ans1: It's a real worry
+  ans2: It's difficult
+  ans3: It's OK
+  ans4: It's fine
+
+Q12a:
+  question: How far does your money stretch?
+  ans1: It's a real worry. I have serious money problems and the debts are mounting up.
+  ans2: It's difficult. I'm struggling to make ends meet.
+  ans3: It's OK. I can mostly afford what I need but there's not much left over.
+  ans4: It's fine. I can afford everything I need and often have money left over.
+
+Q14:
+  question: How much do you rely on borrowing, including any overdrafts, loans or cards but not any student loans?
+  ans1: No problems
+  ans2: It's all planned
+  ans3: It's essential
+
+Q14a:
+  question: How much do you rely on borrowing? (Any overdrafts, loans, credit or store cards)
+  ans1: No problems. I pay off any cards in full each month and don't have any other borrowing.
+  ans2: It's all planned. I have some borrowing but mainly for big things that I can't afford, such as a car.
+  ans3: It's essential. I couldn't manage day to day without borrowing some money.
+  
+Q17:
+  question: How are you coping with your borrowing?
+  ans1: It's a real worry
+  ans2: It's difficult
+  ans3: Fine
+
+Q18:
+  question: How far does your money stretch? 
+  ans1: It's a real worry. We have serious money problems and the debts are mounting up.
+  ans2: It's difficult. We're struggling to make ends meet.
+  ans3: It's OK. We can mostly afford what we need but there's not much left over.
+  ans4: It's fine. We can afford everything we need and often have money left over.
+
+Q19:
+  question: How much do you rely on borrowing? (Overdrafts, loans, credit or store cards - not your mortgage or any student loans)
+  ans1: No problems. We pay off any cards in full each month and don't have any other borrowing.
+  ans2: It's all planned. We have some borrowing but mainly for big things that we can't afford, such as a car.
+  ans3: It's essential. We couldn't manage day to day without borrowing some money.
+
+Q19a:
+  question: How much do you rely on borrowing? (Any overdrafts, loans, credit or store cards)
+  ans1: No problems. We pay off any cards in full each month and don't have any other borrowing.
+  ans2: It's all planned. We have some borrowing but mainly for big things that I can't afford, such as a car.
+  ans3: It's essential. We couldn't manage day to day without borrowing some money.
+  
+Q20:
+  question: How would you deal with an unexpected cost that you couldn't afford to pay for yourself?
+  ans1: I don't know
+  ans2: I'm not sure
+  ans3: Fine
+
+Q21:
+  question: How are you coping with your mortgage and other borrowing?
+  ans1: It's a real worry. We're behind with our mortgage or having serious problems with our other borrowing.
+  ans2: It's difficult. We struggle to keep up with our payments on any loans or cards. I'm not sure how we'll pay back what we owe.
+  ans3: Fine. We're up to date with our mortgage and any loans and cards and know how we'll pay back what we owe.
+
+Q23a:
+  question: How are you coping with your borrowing?
+  ans1: It's a real worry. We're having serious problems with our other borrowing.
+  ans2: It's difficult. We struggle to keep up with our payments on any loans or cards. I'm not sure how we'll pay back what we owe.
+  ans3: Fine. We're up to date with any loans and cards and know how we'll pay back what we owe.
+
+Q24:
+  question: Are you struggling? Based on your answers we think we can help right now.
+  ans1: Continue health check
+  ans2: Go straight to advice
+
+Q25:
+  question: Do you have some money set aside that you could get to easily?
+  ans1: No. We might have to borrow the money.
+  ans2: I'm not sure. We do have some money set aside but I’m not sure it's enough or how easily we could get to it.
+  ans3: Yes. We’ve got enough money to cover our needs and we could get to it easily.
+
+Q26: 
+  question: How would you deal with an unexpected cost you couldn’t afford to pay yourself?
+  ans1: I don't know. We don’t have any insurance or other plans.
+  ans2: I'm not sure. We've got some insurance or other plans but they might not be enough.
+  ans3: Fine. We've got enough insurance or other plans to cover our needs.
+
+Q27:
+  question: How would you cope if you had to manage on less money or if your living costs went up?
+  ans1: I don't know. We haven’t thought about it.
+  ans2: I'm not sure. We’ve made some plans but think we might struggle.
+  ans3: Fine. We’ve made some plans and we’d manage OK.
+  
+Q28:
+  question: Do you have some money set aside that you could get to easily?
+  ans1: No. I might have to borrow the money.
+  ans2: I'm not sure. I do have some money set aside but I’m not sure it's enough or how easily I could get to it.
+  ans3: Yes. I’ve got enough money to cover my needs and I could get to it easily.
+
+Q29:
+  question: How would you deal with an unexpected cost you couldn’t afford to pay yourself?
+  ans1: I don't know. I don’t have any insurance or other plans.
+  ans2: I'm not sure. I've got some insurance or other plans but they might not be enough.
+  ans3: Fine. I've got enough insurance or other plans to cover my needs.
+
+Q30:
+  question: How would you cope if you had to manage on less money or if your living costs went up?
+  ans1: I don't know. I haven’t thought about it.
+  ans2: I'm not sure. I’ve made some plans but think I might struggle.
+  ans3: Fine. I’ve made some plans and I’d manage OK.
+
+Q31:
+  question: When do you think you'll be retiring?
+  ans1: Less than 2 years
+  ans2: 2-10 years
+  ans3: 11-25 years
+  ans4: More than 25 years
+
+Q32: 
+  question: Have you thought about whether your partner and dependants would have enough money if you died?
+  ans1: No. I haven’t made any plans yet.
+  ans2: I'm not sure. I've got some life insurance or other plans but they might struggle to get by.
+  ans3: They'd be OK. I've got enough life insurance or other plans in place to make sure they’d be OK for money.
+
+Q34: 
+  question: And would you have enough money to live on if your partner died?
+  ans1: I don't know. We haven’t made any plans yet.
+  ans2: I'm not sure. My partner has some life insurance or other plans but I might struggle to get by.
+  ans3: I'd be OK. My partner has enough life insurance or other plans in place to make sure I’d be OK for money.
+
+Q35:
+  question: Have you got an up-to-date will?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q36:
+  question: Have you and your partner both got up-to-date wills?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q37:
+  question: What type of mortgage do you have?
+  ans1: Repayment - where your repayments gradually pay off the mortgage itself as well as paying the interest.
+  ans2: Interest-only - where your repayments only pay the interest and not any of the mortgage itself.
+  ans3: Both - part of the mortgage is interest-only and part is repayment.
+  ans4: I don't know
+  
+Q38:
+  question: Do you think you'll have enough money to pay off your mortgage when the time comes?
+  ans1: I don't know. We haven’t made any plans and I don't know how we’ll pay off the mortgage.
+  ans2: I'm worried. We’ve made some plans but not enough to pay off the mortgage.
+  ans3: I'm not sure. We’ve made some plans but I'm not sure they're enough to pay off the mortgage.
+  ans4: It's fine. We’ve made some plans and I'm confident they’ll pay off the mortgage.
+
+Q42:
+  question: When do you think you'll retire?
+  ans1: In less than 2 years.
+  ans2: In 2 to 10 years.
+  ans3: In 11 to 25 years.
+  ans4: In more than 25 years.
+
+Q43:
+  question: When will your partner retire?
+  ans1: In less than 2 years.
+  ans2: In 2 to 10 years.
+  ans3: In 11 to 25 years.
+  ans4: In more than 25 years.
+
+Q46:
+  question: Have you thought about what money you’ll have when you and your partner retire?
+  ans1: No. We haven’t made any plans yet.
+  ans2: I'm not sure. We’ve made some plans, but I don’t know what kind of lifestyle we’ll have.
+  ans3: Fine. We’ve made some plans and I think we’ll manage OK.
+
+Q48:
+  question: Do you have any savings or investments?
+  ans1: 'Yes'
+  ans2: 'No'
+
+Q49:
+  question: Are you saving regularly at the moment?
+  ans1: 'Yes'
+  ans2: No - but I'd like to start saving
+  ans3: No - it's not a priority right now

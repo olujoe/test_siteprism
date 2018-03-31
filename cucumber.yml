@@ -1,0 +1,4 @@
+olddefault: --profile ignore_senarios --profile done_tests
+default: --format html --out results/result_<%= Time.now.strftime("%d_%m_%Y_%H%M") %>.html --format pretty --profile ignore_senarios --profile done_tests
+ignore_senarios: --tags ~@ignore --tags ~@inprogress --tags ~@manual 
+done_tests: --tags ~@done1 --tags ~@done
